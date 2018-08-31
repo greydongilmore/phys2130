@@ -16,7 +16,7 @@
 title: Physiology 2130
 email: greydon.gilmore@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/phys2130" # the subpath of your site, e.g. /blog
+baseurl: "/phys2130/" # the subpath of your site, e.g. /blog
 url: "https://greydongilmore.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
